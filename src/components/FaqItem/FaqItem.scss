@@ -1,0 +1,9 @@
+.collapsible_item{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+.collapsible_item:hover{
+  cursor: pointer;
+}
